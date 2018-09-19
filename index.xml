@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>曾经·晔兮如华</title>
+    <link>https://www.baichaohua.com/</link>
+    <description>Recent content on 曾经·晔兮如华</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Aug 2017 21:38:52 +0800</lastBuildDate>
+    
+        <atom:link href="https://www.baichaohua.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://www.baichaohua.com/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>https://www.baichaohua.com/about/</guid>
+      
+        <description>&lt;pre&gt;&lt;code class=&#34;language-objective-c&#34;&gt;Location : ShangHai
+
+Pseudonym : Once
+
+Hobby :  Play Games / Read Books / Watch TV / Watch Movies / Tour / Think Something /  Together With Friends / And Others ...
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;白某人的小站点&lt;/p&gt;
+
+&lt;p&gt;不知道写些什么&lt;/p&gt;
+
+&lt;p&gt;可能以后这里就是收拾的一个房子&lt;/p&gt;
+
+&lt;p&gt;也可能这里会变得很荒凉&lt;/p&gt;
+
+&lt;p&gt;目前的主题，代码高亮和下面的一段东西，都不是特别喜欢，有时间可能会弄一下。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>TestTuChuang</title>
+      <link>https://www.baichaohua.com/post/testtuchuang/</link>
+      <pubDate>Fri, 14 Sep 2018 16:12:19 +0800</pubDate>
+      
+      <guid>https://www.baichaohua.com/post/testtuchuang/</guid>
+      
+        <description>
+
+&lt;h1 id=&#34;1-https&#34;&gt;1. Https&lt;/h1&gt;
+
+&lt;p&gt;下面是阿里云的图床信息:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://image2.baichaohua.com/logo/logo.png?Expires=1536924551&amp;amp;OSSAccessKeyId=TMP.AQGj0VoU3Dk6_hN8prDZKnyoG7bEpIKVV4udvmpeqZwHR4Ti04Ej7yQ50UvsMC4CFQCvATaQRwE1AZZjW3zevl6yN-T8AQIVAIqb8_8TAkMOspc1CQdJ_573ApA0&amp;amp;Signature=wS0xvImmVhMjCJ8EIDEptB6K4H8%3D&#34; alt=&#34;ali&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;下面是腾讯云的图床:
+&lt;img src=&#34;https://image.baichaohua.com/logo/logo.png?q-sign-algorithm=sha1&amp;amp;q-ak=AKIDHnCFb8ChpOSgyAlpXdH7Vs0trw8JivRf&amp;amp;q-sign-time=1536920736;1536922536&amp;amp;q-key-time=1536920736;1536922536&amp;amp;q-header-list=&amp;amp;q-url-param-list=&amp;amp;q-signature=3b09cb786690f74a3df5a33b25ea97e9d4f4b6f8&amp;amp;x-cos-security-token=dbcb3e79f10fad925b9bb688aa7f2157256d83a310001&amp;amp;response-content-disposition=attachment&#34; alt=&#34;tecent&#34; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;2-http&#34;&gt;2. Http&lt;/h1&gt;
+
+&lt;p&gt;下面是阿里云的图床信息:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://image2.baichaohua.com/logo/logo.png?Expires=1536924551&amp;amp;OSSAccessKeyId=TMP.AQGj0VoU3Dk6_hN8prDZKnyoG7bEpIKVV4udvmpeqZwHR4Ti04Ej7yQ50UvsMC4CFQCvATaQRwE1AZZjW3zevl6yN-T8AQIVAIqb8_8TAkMOspc1CQdJ_573ApA0&amp;amp;Signature=wS0xvImmVhMjCJ8EIDEptB6K4H8%3D&#34; alt=&#34;ali&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;下面是腾讯图床:
+&lt;img src=&#34;http://image.baichaohua.com/logo/logo.png?q-sign-algorithm=sha1&amp;amp;q-ak=AKIDHnCFb8ChpOSgyAlpXdH7Vs0trw8JivRf&amp;amp;q-sign-time=1536920736;1536922536&amp;amp;q-key-time=1536920736;1536922536&amp;amp;q-header-list=&amp;amp;q-url-param-list=&amp;amp;q-signature=3b09cb786690f74a3df5a33b25ea97e9d4f4b6f8&amp;amp;x-cos-security-token=dbcb3e79f10fad925b9bb688aa7f2157256d83a310001&amp;amp;response-content-disposition=attachment&#34; alt=&#34;tecent&#34; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;3-腾讯云-cos-客户端&#34;&gt;3. 腾讯云 COS 客户端&lt;/h1&gt;
+
+&lt;h1 id=&#34;https&#34;&gt;# Https&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://image.baichaohua.com/logo/logo.png?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDIVAh5JPEF7oIKBELdnlXO9oQvFOMhiEd%26q-sign-time%3D1536920845%3B1536921745%26q-key-time%3D1536920845%3B1536921745%26q-header-list%3D%26q-url-param-list%3D%26q-signature%3D72975d1942b8cc585709c8ad88bbde4c3afebf37&#34; alt=&#34;tencentCOS&#34; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;http&#34;&gt;# Http&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://image.baichaohua.com/logo/logo.png?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDIVAh5JPEF7oIKBELdnlXO9oQvFOMhiEd%26q-sign-time%3D1536920845%3B1536921745%26q-key-time%3D1536920845%3B1536921745%26q-header-list%3D%26q-url-param-list%3D%26q-signature%3D72975d1942b8cc585709c8ad88bbde4c3afebf37&#34; alt=&#34;tencentCOS&#34; /&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>“开始 从忘记开始”</title>
+      <link>https://www.baichaohua.com/post/my-first-post/</link>
+      <pubDate>Fri, 07 Sep 2018 09:56:16 +0800</pubDate>
+      
+      <guid>https://www.baichaohua.com/post/my-first-post/</guid>
+      
+        <description>&lt;p&gt;一切从新开始吧&lt;/p&gt;
+
+&lt;p&gt;想写点东西 放在自己的空间&lt;/p&gt;
+
+&lt;p&gt;可能没人看 但有时候又不希望别人看，就是一个诉苦的地方吧&lt;/p&gt;
+
+&lt;p&gt;之前搭建的 Blog 用的是 &lt;code&gt;Hexo&lt;/code&gt; ，现在看来，其实已经是比较老旧了，如果文章多了可能还会影响 Build 的速度&lt;/p&gt;
+
+&lt;p&gt;思来想去，还是用 &lt;code&gt;Hugo&lt;/code&gt; ，甚至以后还有可能学习一下 &lt;code&gt;Go&lt;/code&gt; 语言。&lt;/p&gt;
+
+&lt;p&gt;从上次折腾博客，到现在，发生了很多事情&lt;/p&gt;
+
+&lt;p&gt;只是感觉 生命太脆弱&lt;/p&gt;
+
+&lt;p&gt;时间总是太少&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>

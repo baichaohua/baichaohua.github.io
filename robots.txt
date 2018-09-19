@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.baichaohua.com/sitemap.xml
