@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>TestTuChuang</title>
-      <link>https://www.baichaohua.com/post/testtuchuang/</link>
+      <title>关于图床</title>
+      <link>https://www.baichaohua.com/post/abouttuchuang/</link>
       <pubDate>Fri, 14 Sep 2018 16:12:19 +0800</pubDate>
       
-      <guid>https://www.baichaohua.com/post/testtuchuang/</guid>
-      <description>1. Https 下面是阿里云的图床信息: 下面是腾讯云的图床: 2. Http 下面是阿里云的图床信息: 下面是腾讯图床: 3. 腾讯云 COS 客户端 # Https # Http</description>
+      <guid>https://www.baichaohua.com/post/abouttuchuang/</guid>
+      <description>关于图床 博客里免不了使用图床，比较了很多家，最终一直犹豫使用阿里的还是腾讯的。 由于博客全是放在 Github 上的静态页面，图床的防盗链 貌似设置之后，由于</description>
     </item>
     
     <item>
