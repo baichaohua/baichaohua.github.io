@@ -6,10 +6,28 @@
     <description>Recent content in Posts on 曾经·晔兮如华</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Sep 2018 16:12:19 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 10 Oct 2018 15:12:03 +0800</lastBuildDate>
     
 	<atom:link href="https://www.baichaohua.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test</title>
+      <link>https://www.baichaohua.com/post/test/</link>
+      <pubDate>Wed, 10 Oct 2018 15:12:03 +0800</pubDate>
+      
+      <guid>https://www.baichaohua.com/post/test/</guid>
+      <description>打开淘宝 打开淘宝 打开淘宝某一个链接 打开京东 打开京东 打开京东某一个链接</description>
+    </item>
+    
+    <item>
+      <title>我的爱</title>
+      <link>https://www.baichaohua.com/post/aboutlike/</link>
+      <pubDate>Sat, 29 Sep 2018 10:33:15 +0800</pubDate>
+      
+      <guid>https://www.baichaohua.com/post/aboutlike/</guid>
+      <description>一段没有平等和尊重的感情，充其量也不过是一个人的舞台剧 那年夏天 大学，总是一个美好的地方 年轻、朝气、懵懂，初入学的我们充满了欣喜或者是对学校硬</description>
+    </item>
     
     <item>
       <title>关于图床</title>
